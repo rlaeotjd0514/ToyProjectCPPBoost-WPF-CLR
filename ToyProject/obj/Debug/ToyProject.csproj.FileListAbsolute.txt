@@ -1,0 +1,16 @@
+C:\Users\dskim\source\repos\ToyProject\ToyProject\obj\Debug\ToyProject.csprojAssemblyReference.cache
+C:\Users\dskim\source\repos\ToyProject\ToyProject\obj\Debug\App.g.cs
+C:\Users\dskim\source\repos\ToyProject\ToyProject\obj\Debug\ToyProject_MarkupCompile.cache
+C:\Users\dskim\source\repos\ToyProject\ToyProject\bin\Debug\ToyProject.exe.config
+C:\Users\dskim\source\repos\ToyProject\ToyProject\bin\Debug\ToyProject.exe
+C:\Users\dskim\source\repos\ToyProject\ToyProject\bin\Debug\ToyProject.pdb
+C:\Users\dskim\source\repos\ToyProject\ToyProject\obj\Debug\MainWindow.g.cs
+C:\Users\dskim\source\repos\ToyProject\ToyProject\obj\Debug\ToyProject_MarkupCompile.lref
+C:\Users\dskim\source\repos\ToyProject\ToyProject\obj\Debug\MainWindow.baml
+C:\Users\dskim\source\repos\ToyProject\ToyProject\obj\Debug\ToyProject.g.resources
+C:\Users\dskim\source\repos\ToyProject\ToyProject\obj\Debug\ToyProject.Properties.Resources.resources
+C:\Users\dskim\source\repos\ToyProject\ToyProject\obj\Debug\ToyProject.csproj.GenerateResource.cache
+C:\Users\dskim\source\repos\ToyProject\ToyProject\obj\Debug\ToyProject.csproj.CoreCompileInputs.cache
+C:\Users\dskim\source\repos\ToyProject\ToyProject\obj\Debug\ToyProject.exe
+C:\Users\dskim\source\repos\ToyProject\ToyProject\obj\Debug\ToyProject.pdb
+C:\Users\dskim\source\repos\ToyProject\ToyProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
